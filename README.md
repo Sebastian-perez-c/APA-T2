@@ -1,7 +1,6 @@
 # Segunda tarea de APA 2023: Manejo de números primos
 
-## Nom i cognoms
-
+## Sebastian Pérez Capitano
 ## Fichero `primos.py`
 
 - El alumno debe escribir el fichero `primos.py` que incorporará distintas funciones relacionadas con el manejo
